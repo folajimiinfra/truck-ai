@@ -78,7 +78,7 @@ We propose a **high-performance, scalable** solution using:
 
 ## **5. Why This Approach?**  
 
-| Requirement | Our Solution | Benefit |
+| Requirement | My Solution | Benefit |
 |-------------|--------------|---------|
 | **Fast Mechanic Matching** | PostGIS geospatial queries | Finds mechanics in milliseconds |
 | **Real-Time Notifications** | AWS SNS | Instant SMS alerts |
