@@ -103,9 +103,9 @@ We propose a **high-performance, scalable** solution using:
 ## **7. Cost Breakdown**  
 | Item | Cost (₦) |
 |------|---------|
-| Backend (NestJS/Prisma) | 70,000 |
-| AWS Setup (SNS, RDS) | 50,000 |
-| Geospatial Logic (PostGIS) | 30,000 |
+| Backend (NestJS/Prisma) | 70,000(initial payment) |
+| AWS Setup (SNS, RDS) | 50,000(After 10 days of deployment) |
+| Geospatial Logic (PostGIS) | 30,000(After delivering the project) |
 | **Total** | **₦150,000** (fixed) |
 
 ---
